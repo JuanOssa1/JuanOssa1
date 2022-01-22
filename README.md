@@ -11,5 +11,9 @@
 
 # My knowledge!
 Hi! as did you read my name is Juan and i'm studying software engineering, i know to program at Java, C# and Python however i'm expanding my knowledge everyday, now i'm focusing at frontend devolpment, specially in HTML, CCS3 and JavaScript, below you can check my improve!.
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img height="52" width="52" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img height="52" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img height="52" width="52" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png" />
+<img height="52" width="52" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" />
+<img height="52" width="52" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/css/css.png" />
 
