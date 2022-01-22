@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Frontend Development
 - 🤔 I’m looking for help with ... Frontend Development
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: ... linkedin
+- 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/JuanDOssa)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love cats
 
