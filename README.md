@@ -1,4 +1,4 @@
-### About me 👋
+# About me 👋
 
 - 🔭 I’m currently studying on: Icesi Cali, Colombia
 - 🌱 I’m currently learning: HTML, CSS3 and JavaScript
