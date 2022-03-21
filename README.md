@@ -1,7 +1,7 @@
 # About me 👋
 
 - 🔭 I’m currently studying at: Icesi Cali, Colombia
-- 🌱 I’m currently learning: HTML, CSS3 and JavaScript
+- 🌱 I’m currently learning: HTML, CSS3, JavaScript and React
 - 👯 I’m looking to collaborate on: Frontend Development
 - 🤔 I’m looking for help with: Frontend Development
 - 💬 Ask me about: Anything!
